@@ -1,0 +1,6 @@
+{
+  "appTitle": "open_art",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
